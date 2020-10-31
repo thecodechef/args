@@ -1,0 +1,4 @@
+$variable: #fff
+
+body
+  background-color: $variable
